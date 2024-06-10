@@ -10,4 +10,4 @@ This repository contains the source code for the Deep Learning in Computer Visio
 
 ## Additional Information
 
-For detailed explanations of the methodologies, implementation specifics, and insights into the challenges faced during the project, please refer to the "final_report.pdf" file included in this repository. The report offers an extensive overview of the project results and the specific contributions of each segmentation framework utilized.
+For detailed explanations of the methodologies, implementation specifics, and insights into the challenges faced during the project, please refer to the pdf file of the term project report uploaded in NTU COOL and here. The report offers an extensive overview of the project results and the specific contributions of each segmentation framework utilized.
